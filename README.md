@@ -1,4 +1,4 @@
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/18434405/208100170-3db83c79-1148-4f1c-82b7-9feea21c1ec7.gif)
+<img src="https://user-images.githubusercontent.com/18434405/208100697-e73a1028-31ab-4609-bda9-9bb2b75789c5.gif" width="1200" height="648"/>
 
 <!--
 **Hiccup246/Hiccup246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
